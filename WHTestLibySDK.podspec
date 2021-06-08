@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'WHTestLiby'
-  s.version          = '0.1.0'
+  s.name             = 'WHTestLibySDK'
+  s.version          = '1000.0.1.0'
   s.summary          = 'A short description of WHTestLiby.'
 
 # This description is used to generate tags and improve search results.
